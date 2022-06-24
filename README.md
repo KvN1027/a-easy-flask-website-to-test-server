@@ -1,4 +1,4 @@
-# a-easy-flask-website-to-test-server
+# easy-flask-to-test-server
 
 using Flask as back-end
 ## 🎈default
